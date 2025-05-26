@@ -220,16 +220,16 @@ const MenuAnimation = () => {
                     </div>
                     <div className="menu-socials">
                         <div className="social">
-                            <a href="mailto:anees.dev2002@gmail.com">Mail</a>
+                            <a target = "_blank" href="mailto:anees.dev2002@gmail.com">Mail</a>
                         </div>
                         <div className="social">
-                            <a href="https://github.com/anees-r">GitHub</a>
+                            <a target = "_blank" href="https://github.com/anees-r">GitHub</a>
                         </div>
                         <div className="social">
-                            <a href="https://www.linkedin.com/in/anees-r/">LinkedIn</a>
+                            <a target = "_blank" href="https://www.linkedin.com/in/anees-r/">LinkedIn</a>
                         </div>  
                         <div className="social">
-                            <a href="https://www.behance.net/anees101">Behance</a>
+                            <a target = "_blank" href="https://www.behance.net/anees101">Behance</a>
                         </div>                      
                     </div>
                 </div>
